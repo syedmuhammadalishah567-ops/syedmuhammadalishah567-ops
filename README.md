@@ -68,11 +68,11 @@ I'm a **Full Stack Developer** who builds mobile apps for **Android & iOS**, bac
 
 | Project | Description | Tech |
 |---|---|---|
-| 💍 **PakWeds** | Wedding platform / marketplace app | React Native, React JS, Firebase, MongoDB |
-| 🍔 **FoodPersonal** | Food app with AI chatbot integration | React Native, Firebase, AI Integration |
-| 💪 **Fitness App** | Workout tracking with progress charts and auth | React Native, Firebase, Chart.js |
-| 🎨 **InkedLab** | Booking & payments app | React Native, TypeScript, Firebase, Square API |
-| 📍 **SiteConnect** | Location-based app with maps | React Native, TypeScript, Supabase, Google Maps |
+| **PakWeds** | Wedding platform / marketplace app | React Native, React JS, Firebase, MongoDB |
+| **FoodPersonal** | Food app with AI chatbot integration | React Native, Firebase, AI Integration |
+| **Fitness App** | Workout tracking with progress charts and auth | React Native, Firebase, Chart.js |
+| **InkedLab** | Booking & payments app | React Native, TypeScript, Firebase, Square API |
+| **SiteConnect** | Location-based app with maps | React Native, TypeScript, Supabase, Google Maps |
 
 👉 See all of them with live details on my [**portfolio**](https://aliportfolio-nu.vercel.app).
 
@@ -87,7 +87,7 @@ I'm a **Full Stack Developer** who builds mobile apps for **Android & iOS**, bac
 
 <div align="center">
 
-| 15+ | 6+ | 1+ | 4+ |
+| 15+ | 6+ | 1+ | 10+ |
 |:---:|:---:|:---:|:---:|
 | Tech Skills | API Integrations | Years Experience | Projects Delivered |
 
@@ -95,14 +95,7 @@ I'm a **Full Stack Developer** who builds mobile apps for **Android & iOS**, bac
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadalishah567-ops&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadalishah567-ops&layout=compact&theme=radical&hide_border=true" />
-
-</div>
 
 ---
 
